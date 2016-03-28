@@ -1,3 +1,6 @@
+# Qtelevision
+QQ television SDK for laravel
+
 ### qcloudapi-sdk-php
 
 qcloudapi-sdk-php是为了让PHP开发者能够在自己的代码里更快捷方便的使用腾讯云的API而开发的SDK工具包。
@@ -80,3 +83,4 @@ qcloudapi-sdk-php是为了让PHP开发者能够在自己的代码里更快捷方
         // 请求成功
         var_dump($a);
     }
+
